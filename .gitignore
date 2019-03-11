@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.png
+*.ogg
+*.md
+*.pdf
+*.anim
